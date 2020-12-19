@@ -1,4 +1,3 @@
-
 ## Features
 
 *   Multiple environment ready (development, production)
@@ -30,7 +29,6 @@
 *   Node.js **10+**
 *   MongoDB **3.6+**
 *   Redis **5.0+**
-
 
 ### Install npm dependencies after installing (Git or manual download)
 
@@ -127,7 +125,7 @@ npm run lint
 
 ## Usage
 
-Once everything is set up to test API routes either use Postman or any other api testing application. Default username/password combination for login is `admin@admin.com/12345`. Then store the token as authToken in postman environment to use this for other requests in this environment. 
+Once everything is set up to test API routes either use Postman or any other api testing application. Default username/password combination for login is `admin@admin.com/12345`. Then store the token as authToken in postman environment to use this for other requests in this environment.
 
 ### API documentation
 
@@ -161,7 +159,6 @@ If you need to add more routes to the project just create a new file in `/app/ro
 ### Creating new controllers
 
 When you create a new controller, try to also create another folder with validations and helpers. Ex. `/countries`, `/countries/validators` and `/countries/helpers`. An example of this is included in the repository.
-
 
 ## License
 
