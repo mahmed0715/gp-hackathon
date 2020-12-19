@@ -7,6 +7,10 @@
 6. get bookings
 
 Need to do lot more to finish this project
+Endpoinds are:
+/rooms
+/customers
+/bookings 
 
 
 ## Features
