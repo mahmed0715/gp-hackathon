@@ -1,3 +1,14 @@
+## working api
+1. create room
+2. get room
+3. create customer
+4. get customer,
+5. create booking with payment, room
+6. get bookings
+
+Need to do lot more to finish this project
+
+
 ## Features
 
 *   Multiple environment ready (development, production)
