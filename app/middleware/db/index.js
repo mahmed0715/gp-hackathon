@@ -4,6 +4,7 @@ const { cleanPaginationID } = require('./cleanPaginationID')
 const { createItem } = require('./createItem')
 const { deleteItem } = require('./deleteItem')
 const { getItem } = require('./getItem')
+const { getItemByKey } = require('./getItemByKey')
 const { getItems } = require('./getItems')
 const { listInitOptions } = require('./listInitOptions')
 const { updateItem } = require('./updateItem')
@@ -17,5 +18,6 @@ module.exports = {
   getItem,
   getItems,
   listInitOptions,
-  updateItem
+  updateItem,
+  getItemByKey
 }

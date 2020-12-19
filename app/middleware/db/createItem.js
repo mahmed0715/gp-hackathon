@@ -1,5 +1,4 @@
 const { buildErrObject } = require('../../middleware/utils')
-
 /**
  * Creates a new item in database
  * @param {Object} req - request object
