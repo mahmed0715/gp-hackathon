@@ -12,6 +12,18 @@ Endpoinds are:
 /customers
 /bookings 
 
+to make this simpler, this will create customer if not present and will create booking, if customer presents will use that customer
+.................
+create booking with data
+name:Name1
+email:artrgf@hh.vomkkk
+test:test
+payment:33
+room:5fde070dd4b3ac39c9f081fd
+
+create room
+{}
+this blank req.body will create a room with default values 
 
 ## Features
 
